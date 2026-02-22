@@ -31,7 +31,7 @@ export default function Cadastro() {
         <div className="w-1/2 bg-emerald-500 flex flex-col items-center justify-center text-white p-10">
           <h2 className="text-3xl font-bold mb-3">Seja bem-vindo</h2>
           <p className="text-center text-sm opacity-80 mb-6">
-            Para se cadastrar no CadastrAi, preencha os dados ao lado, como solicitado. Já tem uma conta?
+            Ainda não está cadastrado? Cadastre-se agora no formulário ao lado.
           </p>
 
           <Link

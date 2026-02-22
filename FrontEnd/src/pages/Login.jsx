@@ -27,9 +27,9 @@ export default function Login() {
         
         {/* LADO ESQUERDO */}
         <div className="w-1/2 bg-emerald-500 flex flex-col items-center justify-center text-white p-10">
-          <h2 className="text-3xl font-bold mb-3">Bem-vindo de volta</h2>
+          <h2 className="text-3xl font-bold mb-3">Bem-vindo novamente!</h2>
           <p className="text-center text-sm opacity-80 mb-6">
-            Faça login para acessar o sistema CadastrAi e gerenciar seus usuários.
+            Efetua o login para entrar no sistema.
           </p>
 
           <Link
