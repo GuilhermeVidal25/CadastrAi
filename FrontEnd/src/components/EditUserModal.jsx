@@ -6,7 +6,7 @@ export default function EditUserModal({ isOpen, onClose, user }) {
     email: "",
   })
 
-  // Sempre que mudar o usuário selecionado, preenche o formulário
+  // Sempre que mudar o usuário selecionado, ele preenche o formulário
   useEffect(() => {
     if (user) {
       setFormData({
